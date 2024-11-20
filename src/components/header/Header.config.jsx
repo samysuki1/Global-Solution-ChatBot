@@ -1,5 +1,5 @@
 export const HEADER_CONFIG = {
-  TITLE: "Brasil 巴西 x China 中国",
+  TITLE: "Brasil 巴西 🤝 China 中国",
   NAV: [
     {
       path: "/",
