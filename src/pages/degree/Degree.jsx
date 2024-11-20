@@ -7,13 +7,13 @@ export function Degree() {
       <S.Title>{DEGREE_CONFIG.TITLE}</S.Title>
       <S.Content>
         <S.Paragraph>
-          <span>Liderança no desenvolvimento de energias renováveis:</span> {DEGREE_CONFIG.DATA.INSTITUTION}
+          <span>Desenvolvimento de energias renováveis:</span> {DEGREE_CONFIG.DATA.INSTITUTION}
         </S.Paragraph>
         <S.Paragraph>
           <span>Incentivo e investimentos em inovações:</span> {DEGREE_CONFIG.DATA.COURSE}
         </S.Paragraph>
         <S.Paragraph>
-          <span>Inclusão digital</span> {DEGREE_CONFIG.DATA.START}
+          <span>Inclusão digital:</span> {DEGREE_CONFIG.DATA.START}
         </S.Paragraph>
       </S.Content>
     </S.Wrapper>
