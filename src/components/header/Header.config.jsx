@@ -10,10 +10,6 @@ export const HEADER_CONFIG = {
       text: "Investimento",
     },
     {
-      path: "/experiencia",
-      text: "Sustentabilidade",
-    },
-    {
       path: "/hobbies",
       text: "Mobilidade",
     },
