@@ -12,7 +12,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## Tema Central
 
-Energia para um futuro sustentável parceria (Brasil x China) 
+Energia para um futuro sustentável parceria (Brasil 巴西 x China 中国) 
 
 ## Instalação das dependências
 
@@ -30,5 +30,5 @@ $ npm run dev
 
 ## Vercel
 
-Veja o deployed do projeto no Vercel [LINK](https://api-via-cep-navy.vercel.app/)
+Veja o deployed do projeto no Vercel [LINK](https://global-solution-chat-bot.vercel.app/)
 

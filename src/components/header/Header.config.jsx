@@ -7,15 +7,15 @@ export const HEADER_CONFIG = {
     },
     {
       path: "/formacao",
-      text: "Formação",
+      text: "Investimento",
     },
     {
       path: "/experiencia",
-      text: "Experiência",
+      text: "Sustentabilidade",
     },
     {
       path: "/hobbies",
-      text: "Hobbies",
+      text: "Mobilidade",
     },
   ],
 };
